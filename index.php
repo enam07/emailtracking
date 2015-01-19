@@ -58,7 +58,7 @@ if( isset( $_POST['send'] ) && $_POST['send'] == 'Send' )
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
 
-        <title>Email Open Tracker Example</title>
+        <title>Email Tracker</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     </head>
